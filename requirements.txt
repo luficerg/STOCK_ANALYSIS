@@ -1,4 +1,11 @@
 yfinance
 nltk
 tqdm
+aiohttp
+asyncio
+nest_asyncio
+ipywidgets
+pandas
+numpy
 bs4
+streamlit
